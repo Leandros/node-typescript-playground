@@ -1,0 +1,16 @@
+{
+  "name": "tsctest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "cc": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^10.1.2",
+    "typescript": "^2.8.3"
+  }
+}
